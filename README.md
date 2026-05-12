@@ -1,2 +1,0 @@
-# RideWise
-AI Smart Travel
